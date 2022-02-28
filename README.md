@@ -1,6 +1,6 @@
-# Pure Php
+# APM pure Php package
 
-Pure Php sample projectis just a sample project and here is what I usualy do for each new Php project.
+Pure Php sample project is just a sample project and here is what I usualy do for each new Php project.
 
 This project has a **route.php** that handle all of requests, methods and urls.
 
